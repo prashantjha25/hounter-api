@@ -1,0 +1,68 @@
+{
+  "houses": [
+    {
+      "id": 1,
+      "name": "Roselands House",
+      "price": 35000000,
+      "image": "imgs/house-1.jpeg",
+      "label": {
+        "text": "Popular",
+        "type": "danger",
+        "icon": "icon-trending"
+      },
+      "owner": {
+        "name": "Dianne Russell",
+        "location": "Manchester, Kentucky",
+        "avatar": "imgs/avatars-6.jpeg"
+      }
+    },
+    {
+      "id": 2,
+      "name": "Woodlandside",
+      "price": 20000000,
+      "image": "imgs/house-2.jpeg",
+      "label": {
+        "text": "New house",
+        "type": "info",
+        "icon": "icon-home"
+      },
+      "owner": {
+        "name": "Robert Fox",
+        "location": "Dr. San Jose, South Dakota",
+        "avatar": "imgs/avatars-7.jpeg"
+      }
+    },
+    {
+      "id": 3,
+      "name": "The Old Lighthouse",
+      "price": 44000000,
+      "image": "imgs/house-3.jpeg",
+      "label": {
+        "text": "Best deals",
+        "type": "success",
+        "icon": "icon-home"
+      },
+      "owner": {
+        "name": "Ronald Richards",
+        "location": "Santa Ana, Illinois",
+        "avatar": "imgs/avatars-8.jpeg"
+      }
+    },
+    {
+      "id": 4,
+      "name": "Cosmo's House",
+      "price": 22000000,
+      "image": "imgs/house-4.jpeg",
+      "label": {
+        "text": "Popular",
+        "type": "danger",
+        "icon": "icon-home"
+      },
+      "owner": {
+        "name": "Jenny Wilson",
+        "location": "Preston Rd. Inglewood, Maine 98380",
+        "avatar": "imgs/avatars-1.jpeg"
+      }
+    }
+  ]
+}
