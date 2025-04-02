@@ -4,6 +4,7 @@
       "id": 1,
       "name": "Roselands House",
       "price": 35000000,
+      "type": "villa",
       "image": "imgs/house-1.jpeg",
       "label": {
         "text": "Popular",
@@ -20,6 +21,7 @@
       "id": 2,
       "name": "Woodlandside",
       "price": 20000000,
+      "type": "house",
       "image": "imgs/house-2.jpeg",
       "label": {
         "text": "New house",
@@ -36,6 +38,7 @@
       "id": 3,
       "name": "The Old Lighthouse",
       "price": 44000000,
+      "type": "apartment",
       "image": "imgs/house-3.jpeg",
       "label": {
         "text": "Best deals",
@@ -52,6 +55,7 @@
       "id": 4,
       "name": "Cosmo's House",
       "price": 22000000,
+      "type": "villa",
       "image": "imgs/house-4.jpeg",
       "label": {
         "text": "Popular",
@@ -61,6 +65,142 @@
       "owner": {
         "name": "Jenny Wilson",
         "location": "Preston Rd. Inglewood, Maine 98380",
+        "avatar": "imgs/avatars-1.jpeg"
+      }
+    },
+    {
+      "id": 5,
+      "name": "Sunset Heights",
+      "price": 28000000,
+      "type": "house",
+      "image": "imgs/house-1.jpeg",
+      "label": {
+        "text": "Featured",
+        "type": "warning",
+        "icon": "icon-star"
+      },
+      "owner": {
+        "name": "Cameron Williamson",
+        "location": "Austin, Texas",
+        "avatar": "imgs/avatars-2.jpeg"
+      }
+    },
+    {
+      "id": 6,
+      "name": "Maple Apartments",
+      "price": 18000000,
+      "type": "apartment",
+      "image": "imgs/house-2.jpeg",
+      "label": {
+        "text": "Luxury",
+        "type": "primary",
+        "icon": "icon-diamond"
+      },
+      "owner": {
+        "name": "Esther Howard",
+        "location": "Seattle, Washington",
+        "avatar": "imgs/avatars-3.jpeg"
+      }
+    },
+    {
+      "id": 7,
+      "name": "Skyline Tower",
+      "price": 60000000,
+      "type": "apartment",
+      "image": "imgs/house-3.jpeg",
+      "label": {
+        "text": "Hot Deal",
+        "type": "danger",
+        "icon": "icon-fire"
+      },
+      "owner": {
+        "name": "Albert Flores",
+        "location": "Los Angeles, California",
+        "avatar": "imgs/avatars-4.jpeg"
+      }
+    },
+    {
+      "id": 8,
+      "name": "Palm Beach Villa",
+      "price": 52000000,
+      "type": "villa",
+      "image": "imgs/house-4.jpeg",
+      "label": {
+        "text": "Beachfront",
+        "type": "success",
+        "icon": "icon-sun"
+      },
+      "owner": {
+        "name": "Kristin Watson",
+        "location": "Miami, Florida",
+        "avatar": "imgs/avatars-5.jpeg"
+      }
+    },
+    {
+      "id": 9,
+      "name": "Mountain View House",
+      "price": 32000000,
+      "type": "house",
+      "image": "imgs/house-1.jpeg",
+      "label": {
+        "text": "Nature Living",
+        "type": "info",
+        "icon": "icon-leaf"
+      },
+      "owner": {
+        "name": "Wade Warren",
+        "location": "Denver, Colorado",
+        "avatar": "imgs/avatars-6.jpeg"
+      }
+    },
+    {
+      "id": 10,
+      "name": "Modern Loft",
+      "price": 15000000,
+      "type": "apartment",
+      "image": "imgs/house-2.jpeg",
+      "label": {
+        "text": "Minimalist",
+        "type": "primary",
+        "icon": "icon-minimal"
+      },
+      "owner": {
+        "name": "Courtney Henry",
+        "location": "San Francisco, California",
+        "avatar": "imgs/avatars-7.jpeg"
+      }
+    },
+    {
+      "id": 11,
+      "name": "Grand Estate",
+      "price": 75000000,
+      "type": "villa",
+      "image": "imgs/house-3.jpeg",
+      "label": {
+        "text": "Ultra Luxury",
+        "type": "danger",
+        "icon": "icon-crown"
+      },
+      "owner": {
+        "name": "Brooklyn Simmons",
+        "location": "Beverly Hills, California",
+        "avatar": "imgs/avatars-8.jpeg"
+      }
+    },
+    {
+      "id": 12,
+      "name": "Seaside Retreat",
+      "price": 45000000,
+      "type": "villa",
+      "image": "imgs/house-4.jpeg",
+      "label": {
+        "text": "Ocean View",
+        "type": "success",
+        "icon": "icon-wave"
+      },
+      "owner": {
+        "name": "Guy Hawkins",
+        "location": "San Diego, California",
         "avatar": "imgs/avatars-1.jpeg"
       }
     }
