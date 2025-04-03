@@ -1,0 +1,148 @@
+{
+  "reviews": [
+    {
+      "id": 1,
+      "image": "imgs/review-img-1.jpeg",
+      "title": "My house sold out fast!",
+      "description": "I was finally able to sell my house quickly through Hounter by immediately setting me up with people who wanted my house. Awesome!",
+      "profile": {
+        "image": "imgs/avatars-6.jpeg",
+        "name": "Dianne Russell",
+        "location": "Manchester, Kentucky"
+      },
+      "rating": 4.3
+    },
+    {
+      "id": 2,
+      "image": "imgs/review-img-2.jpeg",
+      "title": "Best! I got the house I wanted through Hounter",
+      "description": "Through this website I can get a house with the type and specifications I want very easily, without a complicated process.",
+      "profile": {
+        "image": "imgs/avatars-1.jpeg",
+        "name": "Jenny Wilson",
+        "location": "Manager Director"
+      },
+      "rating": 4.3
+    },
+    {
+      "id": 3,
+      "image": "imgs/review-img-3.jpeg",
+      "title": "Through the Hounter, I can get a house for myself",
+      "description": "We managed to get the house we wanted very quickly, and directly connected with the seller. Very helpful!",
+      "profile": {
+        "image": "imgs/avatars-8.jpeg",
+        "name": "Ronald Richards",
+        "location": "Head of Marketing"
+      },
+      "rating": 4.6
+    },
+    {
+      "id": 4,
+      "image": "imgs/review-img-1.jpeg",
+      "title": "Amazing experience selling my house!",
+      "description": "The platform connected me with serious buyers in no time. The process was smooth, and I didn’t have to worry about a thing!",
+      "profile": {
+        "image": "imgs/avatars-2.jpeg",
+        "name": "Courtney Henry",
+        "location": "New York, USA"
+      },
+      "rating": 4.8
+    },
+    {
+      "id": 5,
+      "image": "imgs/review-img-2.jpeg",
+      "title": "Fast and hassle-free purchase!",
+      "description": "I found the perfect house for my family without stress. The details were clear, and the seller was very responsive.",
+      "profile": {
+        "image": "imgs/avatars-5.jpeg",
+        "name": "Cameron Williamson",
+        "location": "Los Angeles, CA"
+      },
+      "rating": 4.5
+    },
+    {
+      "id": 6,
+      "image": "imgs/review-img-3.jpeg",
+      "title": "Best investment I made!",
+      "description": "Buying through Hounter was the best decision I made this year. The options were incredible, and I got the best deal!",
+      "profile": {
+        "image": "imgs/avatars-7.jpeg",
+        "name": "Jacob Jones",
+        "location": "San Francisco, CA"
+      },
+      "rating": 4.7
+    },
+    {
+      "id": 7,
+      "image": "imgs/review-img-1.jpeg",
+      "title": "Super easy to sell my property",
+      "description": "The best thing about Hounter is how simple it is to list and sell properties. I would highly recommend it!",
+      "profile": {
+        "image": "imgs/avatars-3.jpeg",
+        "name": "Kristin Watson",
+        "location": "Austin, Texas"
+      },
+      "rating": 4.6
+    },
+    {
+      "id": 8,
+      "image": "imgs/review-img-2.jpeg",
+      "title": "I love the detailed listings!",
+      "description": "Each house listing had great details and images, making it easier for me to decide. It saved me so much time!",
+      "profile": {
+        "image": "imgs/avatars-4.jpeg",
+        "name": "Brooklyn Simmons",
+        "location": "Seattle, WA"
+      },
+      "rating": 4.9
+    },
+    {
+      "id": 9,
+      "image": "imgs/review-img-3.jpeg",
+      "title": "Got my dream house!",
+      "description": "I was able to find my dream house through this platform. The user experience is amazing, and it made everything so simple!",
+      "profile": {
+        "image": "imgs/avatars-6.jpeg",
+        "name": "Wade Warren",
+        "location": "Denver, CO"
+      },
+      "rating": 4.8
+    },
+    {
+      "id": 10,
+      "image": "imgs/review-img-1.jpeg",
+      "title": "A reliable platform for buyers",
+      "description": "As a first-time home buyer, I was very nervous, but Hounter made it a very easy and safe experience for me.",
+      "profile": {
+        "image": "imgs/avatars-9.jpeg",
+        "name": "Robert Fox",
+        "location": "Boston, MA"
+      },
+      "rating": 4.5
+    },
+    {
+      "id": 11,
+      "image": "imgs/review-img-2.jpeg",
+      "title": "I would recommend this to anyone!",
+      "description": "From searching for homes to contacting sellers, the entire process was smooth and well-managed.",
+      "profile": {
+        "image": "imgs/avatars-10.jpeg",
+        "name": "Annette Black",
+        "location": "Chicago, IL"
+      },
+      "rating": 4.6
+    },
+    {
+      "id": 12,
+      "image": "imgs/review-img-3.jpeg",
+      "title": "A game-changer in real estate!",
+      "description": "The best real estate platform I have used so far! It made my home buying experience incredibly easy.",
+      "profile": {
+        "image": "imgs/avatars-11.jpeg",
+        "name": "Devon Lane",
+        "location": "Miami, FL"
+      },
+      "rating": 5.0
+    }
+  ]
+}
