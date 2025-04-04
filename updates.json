@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "avatars": ["imgs/avatars-1.jpeg", "imgs/avatars-2.jpeg", "imgs/avatars-3.jpeg"],
+    "title": "1K+ People",
+    "subtitle": "Successfully Getting Home"
+  },
+  {
+    "id": 2,
+    "avatars": ["imgs/avatars-4.png"],
+    "title": "56 Houses",
+    "subtitle": "Sold Monthly"
+  },
+  {
+    "id": 3,
+    "avatars": ["imgs/avatars-5.jpeg"],
+    "title": "4K+",
+    "subtitle": "People Looking for New Homes"
+  },
+  {
+    "id": 4,
+    "avatars": ["imgs/avatars-6.jpeg", "imgs/avatars-7.jpeg"],
+    "title": "300+ Agents",
+    "subtitle": "Helping You Find Your Home"
+  },
+  {
+    "id": 5,
+    "avatars": ["imgs/avatars-8.jpeg"],
+    "title": "120 Cities",
+    "subtitle": "With Our Presence"
+  },
+  {
+    "id": 6,
+    "avatars": ["imgs/avatars-9.jpeg", "imgs/avatars-10.jpeg"],
+    "title": "98% Satisfaction",
+    "subtitle": "Client Happiness Score"
+  },
+  {
+    "id": 7,
+    "avatars": ["imgs/avatars-11.jpeg"],
+    "title": "800+ Reviews",
+    "subtitle": "From Happy Clients"
+  },
+  {
+    "id": 8,
+    "avatars": ["imgs/avatars-12.jpeg"],
+    "title": "24/7 Support",
+    "subtitle": "Always Here to Help"
+  },
+  {
+    "id": 9,
+    "avatars": ["imgs/avatars-13.jpeg", "imgs/avatars-14.jpeg"],
+    "title": "10K Listings",
+    "subtitle": "Across All Platforms"
+  },
+  {
+    "id": 10,
+    "avatars": ["imgs/avatars-15.jpeg"],
+    "title": "Award-Winning Service",
+    "subtitle": "Best Realty Brand 2024"
+  }
+]
