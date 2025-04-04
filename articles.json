@@ -3,6 +3,7 @@
     "id": 1,
     "image": "imgs/house-5.jpeg",
     "title": "The things we need to check when we want to buy a house",
+    "description": "From structural integrity to neighborhood vibes, here’s what to keep in mind.",
     "user": {
       "name": "Dianne Russell",
       "avatar": "imgs/avatars-1.jpeg"
@@ -14,6 +15,7 @@
     "id": 2,
     "image": "imgs/house-6.jpeg",
     "title": "7 Ways to distinguish the quality of the house we want to buy",
+    "description": "Discover practical methods to assess build quality and long-term value.",
     "user": {
       "name": "Courtney Henry",
       "avatar": "imgs/avatars-9.jpeg"
@@ -25,6 +27,7 @@
     "id": 3,
     "image": "imgs/house-8.jpeg",
     "title": "The best way to know the quality of the house we want to buy",
+    "description": "Learn the insider secrets to evaluating home quality like a pro.",
     "user": {
       "name": "Darlene Robertson",
       "avatar": "imgs/avatars-11.jpeg"
@@ -36,6 +39,7 @@
     "id": 4,
     "image": "imgs/house-5.jpeg",
     "title": "Tips for evaluating the location before buying a house",
+    "description": "A great house in the wrong place is still a bad investment — here's how to avoid that.",
     "user": {
       "name": "Albert Flores",
       "avatar": "imgs/avatars-1.jpeg"
@@ -47,6 +51,7 @@
     "id": 5,
     "image": "imgs/house-6.jpeg",
     "title": "What to consider when buying your first home",
+    "description": "From budgeting to choosing the right neighborhood, this guide has you covered.",
     "user": {
       "name": "Jenny Wilson",
       "avatar": "imgs/avatars-9.jpeg"
@@ -58,6 +63,7 @@
     "id": 6,
     "image": "imgs/house-8.jpeg",
     "title": "Understanding property taxes before buying a house",
+    "description": "Know what you’ll owe before signing on the dotted line — avoid surprises.",
     "user": {
       "name": "Ralph Edwards",
       "avatar": "imgs/avatars-11.jpeg"
@@ -69,6 +75,7 @@
     "id": 7,
     "image": "imgs/house-5.jpeg",
     "title": "Why house inspections are important",
+    "description": "An inspection today can save you thousands tomorrow — here’s what to expect.",
     "user": {
       "name": "Annette Black",
       "avatar": "imgs/avatars-1.jpeg"
@@ -80,6 +87,7 @@
     "id": 8,
     "image": "imgs/house-6.jpeg",
     "title": "How to estimate the resale value of a home",
+    "description": "Thinking long-term? Here’s how to forecast your home’s future worth.",
     "user": {
       "name": "Eleanor Pena",
       "avatar": "imgs/avatars-9.jpeg"
@@ -91,6 +99,7 @@
     "id": 9,
     "image": "imgs/house-8.jpeg",
     "title": "Top 5 mistakes to avoid when buying a house",
+    "description": "Avoid costly errors with this essential checklist for new buyers.",
     "user": {
       "name": "Wade Warren",
       "avatar": "imgs/avatars-11.jpeg"
@@ -102,6 +111,7 @@
     "id": 10,
     "image": "imgs/house-5.jpeg",
     "title": "A checklist for viewing homes",
+    "description": "Don’t miss a thing when house hunting — keep this checklist handy.",
     "user": {
       "name": "Kristin Watson",
       "avatar": "imgs/avatars-1.jpeg"
