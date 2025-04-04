@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "image": "imgs/house-5.jpeg",
+    "title": "The things we need to check when we want to buy a house",
+    "user": {
+      "name": "Dianne Russell",
+      "avatar": "imgs/avatars-1.jpeg"
+    },
+    "readTime": "4 min read",
+    "date": "25 Apr 2021"
+  },
+  {
+    "id": 2,
+    "image": "imgs/house-6.jpeg",
+    "title": "7 Ways to distinguish the quality of the house we want to buy",
+    "user": {
+      "name": "Courtney Henry",
+      "avatar": "imgs/avatars-9.jpeg"
+    },
+    "readTime": "6 min read",
+    "date": "24 Apr 2021"
+  },
+  {
+    "id": 3,
+    "image": "imgs/house-8.jpeg",
+    "title": "The best way to know the quality of the house we want to buy",
+    "user": {
+      "name": "Darlene Robertson",
+      "avatar": "imgs/avatars-11.jpeg"
+    },
+    "readTime": "2 min read",
+    "date": "24 Apr 2021"
+  },
+  {
+    "id": 4,
+    "image": "imgs/house-5.jpeg",
+    "title": "Tips for evaluating the location before buying a house",
+    "user": {
+      "name": "Albert Flores",
+      "avatar": "imgs/avatars-1.jpeg"
+    },
+    "readTime": "5 min read",
+    "date": "23 Apr 2021"
+  },
+  {
+    "id": 5,
+    "image": "imgs/house-6.jpeg",
+    "title": "What to consider when buying your first home",
+    "user": {
+      "name": "Jenny Wilson",
+      "avatar": "imgs/avatars-9.jpeg"
+    },
+    "readTime": "3 min read",
+    "date": "22 Apr 2021"
+  },
+  {
+    "id": 6,
+    "image": "imgs/house-8.jpeg",
+    "title": "Understanding property taxes before buying a house",
+    "user": {
+      "name": "Ralph Edwards",
+      "avatar": "imgs/avatars-11.jpeg"
+    },
+    "readTime": "7 min read",
+    "date": "22 Apr 2021"
+  },
+  {
+    "id": 7,
+    "image": "imgs/house-5.jpeg",
+    "title": "Why house inspections are important",
+    "user": {
+      "name": "Annette Black",
+      "avatar": "imgs/avatars-1.jpeg"
+    },
+    "readTime": "4 min read",
+    "date": "21 Apr 2021"
+  },
+  {
+    "id": 8,
+    "image": "imgs/house-6.jpeg",
+    "title": "How to estimate the resale value of a home",
+    "user": {
+      "name": "Eleanor Pena",
+      "avatar": "imgs/avatars-9.jpeg"
+    },
+    "readTime": "6 min read",
+    "date": "20 Apr 2021"
+  },
+  {
+    "id": 9,
+    "image": "imgs/house-8.jpeg",
+    "title": "Top 5 mistakes to avoid when buying a house",
+    "user": {
+      "name": "Wade Warren",
+      "avatar": "imgs/avatars-11.jpeg"
+    },
+    "readTime": "5 min read",
+    "date": "19 Apr 2021"
+  },
+  {
+    "id": 10,
+    "image": "imgs/house-5.jpeg",
+    "title": "A checklist for viewing homes",
+    "user": {
+      "name": "Kristin Watson",
+      "avatar": "imgs/avatars-1.jpeg"
+    },
+    "readTime": "3 min read",
+    "date": "18 Apr 2021"
+  }
+]
